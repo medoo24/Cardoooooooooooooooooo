@@ -1,0 +1,88 @@
+{
+  "summary": {
+    "sourceRows": 1027,
+    "questions": 894,
+    "singleChoice": 892,
+    "multipleChoice": 2,
+    "sourceMismatches": 1,
+    "sections": {
+      "Past Exams": 368,
+      "Lecture Topics": 48,
+      "Pediatrics": 88,
+      "Cardiothoracic Surgery": 131,
+      "Faculty Banks": 50,
+      "Review Collections": 148,
+      "Group Banks": 2,
+      "Other Collections": 59
+    },
+    "topics": {
+      "Acute Coronary Syndrome & IHD": 92,
+      "Arrhythmias & ECG": 86,
+      "Asthma, COPD & Airways": 63,
+      "Cardiac Investigation & Resuscitation": 7,
+      "Congenital & Pediatric Cardiology": 40,
+      "Endocarditis & Rheumatic Disease": 11,
+      "Heart Failure": 52,
+      "Hypertension & Vascular": 47,
+      "Interstitial & Occupational Lung": 27,
+      "Lung Cancer & Mediastinum": 31,
+      "Mixed Cardiorespiratory": 165,
+      "Pericardial Disease & Cardiac Trauma": 13,
+      "Pleural Disease": 71,
+      "Pneumonia & Respiratory Infection": 27,
+      "Pulmonary Embolism & Vascular": 8,
+      "Thoracic Trauma": 16,
+      "Tuberculosis": 13,
+      "Valvular Heart Disease": 93,
+      "General Surgery": 29,
+      "Postoperative Respiratory Care": 1,
+      "Thoracic Surgery & Chest Wall": 2
+    },
+    "tags": 40
+  },
+  "sectionCounts": {
+    "Past Exams": 368,
+    "Lecture Topics": 48,
+    "Pediatrics": 88,
+    "Cardiothoracic Surgery": 131,
+    "Faculty Banks": 50,
+    "Review Collections": 148,
+    "Group Banks": 2,
+    "Other Collections": 59
+  },
+  "topicCounts": {
+    "Acute Coronary Syndrome & IHD": 92,
+    "Arrhythmias & ECG": 86,
+    "Asthma, COPD & Airways": 63,
+    "Cardiac Investigation & Resuscitation": 7,
+    "Congenital & Pediatric Cardiology": 40,
+    "Endocarditis & Rheumatic Disease": 11,
+    "Heart Failure": 52,
+    "Hypertension & Vascular": 47,
+    "Interstitial & Occupational Lung": 27,
+    "Lung Cancer & Mediastinum": 31,
+    "Mixed Cardiorespiratory": 165,
+    "Pericardial Disease & Cardiac Trauma": 13,
+    "Pleural Disease": 71,
+    "Pneumonia & Respiratory Infection": 27,
+    "Pulmonary Embolism & Vascular": 8,
+    "Thoracic Trauma": 16,
+    "Tuberculosis": 13,
+    "Valvular Heart Disease": 93,
+    "General Surgery": 29,
+    "Postoperative Respiratory Care": 1,
+    "Thoracic Surgery & Chest Wall": 2
+  },
+  "anomalies": [
+    {
+      "id": "CT-F735AC7AD7F2",
+      "question": "A 2-day-old infant experiences cyanosis, hypotension, and metabolic acidosis. On examination, the infant is lethargic, tachycardic, and gray blue, with hepatomegaly, a grade 2-3/6 systolic murmur, and poor radial and femoral pulses. A chest radiograph reveals cardiomegaly, and an ECG demonstrates right ventricular dominance with markedly reduced R waves in V5 and V6. The most likely diagnosis:",
+      "sourceLines": [
+        "8th Semester CardioThoracic PRO.txt:561"
+      ],
+      "invalidAnswerPositions": [
+        4
+      ]
+    }
+  ]
+}

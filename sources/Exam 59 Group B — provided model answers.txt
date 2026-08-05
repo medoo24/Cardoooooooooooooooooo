@@ -1,0 +1,242 @@
+Exam 59 — Group B
+Choose the single best answer.
+Model answers: 1 C, 2 D, 3 D, 4 C, 5 E, 6 C, 7 B, 8 D, 9 C, 10 C, 11 E, 12 A, 13 C, 14 D, 15 A, 16 C, 17 C, 18 B, 19 B, 20 C, 21 D, 22 A, 23 B, 24 B, 25 B, 26 C, 27 D, 28 E, 29 D, 30 E
+
+1. All of the following are considered as angina except:
+A. Chest pain on climbing 2 flights of stairs
+B. Epigastric pain after a heavy meal
+C. Localized stabbing chest pain with breathing
+D. Shortness of breath with exertion
+E. Tightening sensation in the throat with exertion
+Model answer: C
+
+2. Which of the following drugs is considered an anti-anginal therapy?
+A. Aspirin
+B. Statin
+C. Clopidogrel
+D. Beta-blockers
+E. Heparin
+Model answer: D
+
+3. A 55-year-old male patient presented with typical chest pain and ECG showed ST-elevation myocardial infarction without heart failure. Which of the following is not indicated?
+A. Loading with aspirin 300 mg
+B. Loading with clopidogrel 300 mg
+C. Primary percutaneous coronary intervention
+D. Oxygen
+E. Statin
+Model answer: D
+
+4. All of the following are risk factors for ischemic heart disease except:
+A. Smoking
+B. Obesity
+C. Rheumatoid arthritis
+D. High glucose intake
+E. Dyslipidemia
+Model answer: C
+
+5. In mitral stenosis, which is true?
+A. Left ventricular dysfunction is common
+B. Left ventricular end-diastolic pressure is high
+C. Atrial fibrillation is not common
+D. Left atrial pressure is low
+E. Left atrial appendage thrombus is common
+Model answer: E
+
+6. A 25-year-old female patient presented with narrow-complex regular tachycardia at a heart rate of 170 bpm, severe chest pain, and blood pressure of 70/50 mmHg. What is the best treatment?
+A. IV beta-blocker
+B. IV adenosine
+C. DC shock
+D. IV fluid
+E. IV digoxin
+Model answer: C
+
+7. What is the most important single lipid test in a patient with coronary artery disease?
+A. HDL
+B. LDL
+C. VLDL
+D. Triglycerides
+E. Apolipoprotein B
+Model answer: B
+
+8. Regarding Duke criteria, which is true?
+A. There are three major and five minor criteria
+B. A positive blood culture consistent with infective endocarditis is a minor criterion
+C. Fever is a major criterion
+D. Roth spot is a minor criterion
+E. Osler node is a major criterion
+Model answer: D
+
+9. Which one of the following investigations is usually used to confirm the diagnosis of asthma?
+A. Plain chest X-ray
+B. High-resolution CT chest
+C. Spirometry
+D. Bronchoscopy
+E. IgE measurement
+Model answer: C
+
+10. Which of the following is correct about smoking?
+A. Lung cancer occurs in smokers only
+B. All smokers will develop COPD and lung cancer
+C. Smoking cessation is important in the management of COPD
+D. Smoking is not related to progression of COPD
+E. Smoking is not related to any diffuse parenchymal lung disease
+Model answer: C
+
+11. Which of the following is related to severe pneumonia?
+A. Respiratory rate ≥30/min
+B. Confusion
+C. Age ≥65 years
+D. Bilateral or multilobar lung involvement on imaging
+E. All of the above
+Model answer: E
+
+12. Regarding asbestos exposure, which statement is correct?
+A. It can cause mesothelioma
+B. It can cause silicosis
+C. It is more common in coal workers
+D. It is characterized by insignificant pleural abnormalities
+E. There is no increased risk of developing lung cancer
+Model answer: A
+
+13. Which of the following is true about pulmonary embolism treatment?
+A. Unfractionated heparin dosage is adjusted by prothrombin time measurement
+B. Activated partial thromboplastin time is commonly used to monitor warfarin
+C. Thrombolytic therapy is indicated in acute pulmonary embolism associated with sustained hypotension
+D. Thrombolytic therapy is indicated even when there is active melena
+E. Protamine sulfate is the treatment of choice for bleeding in a patient on warfarin
+Model answer: C
+
+14. Which of the following is observed in the anterior mediastinum?
+A. Vertebral tumors
+B. Esophageal tumors
+C. Tracheal tumors
+D. Thymic tumors
+E. Neurogenic tumors
+Model answer: D
+
+15. Which of the following is the most important step in the management of pneumoconiosis?
+A. Avoid further exposure
+B. Steroids
+C. Proper antibiotics
+D. Vaccination
+E. Tuberculin skin test
+Model answer: A
+
+16. What is the first-line therapy in the management of an acute asthma attack?
+A. Non-steroidal anti-inflammatory drugs
+B. Theophylline
+C. Inhaled beta-2 agonists
+D. Antibiotics
+E. Beta-2 antagonists
+Model answer: C
+
+17. A patient was admitted to the emergency room with blunt chest trauma. The patient is vitally stable, but examination shows subcutaneous emphysema, hyperresonant percussion, and diminished breath sounds on the right side. What is the next step?
+A. Chest X-ray
+B. Chest tube drainage
+C. Oxygen support and follow-up
+D. Discharge home
+E. Spirometry
+Model answer: C
+
+18. Confirming pulmonary embolism depends on:
+A. Spirometry
+B. CT pulmonary angiography (CTPA)
+C. D-dimer test
+D. Chest X-ray
+E. ECG
+Model answer: B
+
+19. Which of the following is not commonly a cause of massive hemoptysis?
+A. Lung cancer
+B. Pleural effusion
+C. Pulmonary tuberculosis
+D. Bronchiectasis
+E. Warfarin toxicity
+Model answer: B
+
+20. Exudative lymphocytic pleural effusion is commonly caused by:
+A. Heart failure and malignant pleural effusion
+B. Heart failure and malignant pleural effusion
+C. Tuberculosis and malignant pleural effusion
+D. Hypoalbuminemia and liver cell failure
+E. Heart failure and liver cell failure
+Model answer: C
+
+21. In a cyanotic newborn, by a single test, how can you distinguish pulmonary disease from cyanotic congenital heart disease?
+A. Renal function test
+B. Bubble test
+C. Tuberculin test
+D. Hyperoxia test
+E. Thyroid function test
+Model answer: D
+
+22. A previously healthy 8-year-old boy has a one-week history of a common cold. On examination, he is found to have a pansystolic heart murmur. What is the most likely diagnosis?
+A. VSD
+B. ASD
+C. PDA
+D. Tuberculosis
+E. Patent foramen ovale
+Model answer: A
+
+23. What is the role of ACE inhibitors in pediatric heart failure?
+A. Increase heart rate
+B. Reduce afterload and improve cardiac output
+C. Promote sodium retention
+D. Directly increase myocardial contractility
+E. Act as a diuretic
+Model answer: B
+
+24. Which of the following is true about hypertrophic cardiomyopathy in children?
+A. It is characterized by left ventricular dilation and decreased systolic function
+B. It is characterized by left ventricular hypertrophy with diastolic dysfunction
+C. It is characterized by fibrofatty replacement of myocardium
+D. It is usually caused by ischemia due to coronary artery disease
+Model answer: B
+
+25. Which microorganism is most commonly associated with subacute infective endocarditis in children with underlying congenital heart disease?
+A. Staphylococcus aureus
+B. Viridans streptococci
+C. Enterococcus faecalis
+D. Pseudomonas aeruginosa
+E. Streptococcus pneumoniae
+Model answer: B
+
+26. In the context of an asthma attack in a pediatric patient, which of the following does not indicate a life-threatening attack?
+A. PEF <33% of best or predicted
+B. Normal PCO₂
+C. Oxygen saturation >95%
+D. Poor respiratory effort
+E. Hypotension
+Model answer: C
+
+27. The characteristic feature of a pneumothorax in a pediatric patient is:
+A. Dullness to percussion
+B. Bronchial breathing
+C. Tenderness on palpation of the chest wall
+D. Decreased breath sounds
+E. Crackles
+Model answer: D
+
+28. Mortality from severe COVID-19 pneumonia in pediatric patients is significantly reduced by treating patients with:
+A. Hydroxychloroquine
+B. Colchicine
+C. Dexamethasone
+D. Remdesivir
+E. Both C and D
+Model answer: E
+
+29. Acute epiglottitis in pediatric patients is usually caused by:
+A. Streptococcus pneumoniae
+B. Mycoplasma pneumoniae
+C. Infectious mononucleosis
+D. Haemophilus influenzae type B
+E. Staphylococcus aureus
+Model answer: D
+
+30. In childhood, contact with birds is a risk factor for infection with:
+A. Chlamydophila pneumoniae
+B. Mycoplasma pneumoniae
+C. Coxiella burnetii
+D. Legionella pneumophila
+E. Chlamydophila psittaci
+Model answer: E

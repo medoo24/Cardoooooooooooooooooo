@@ -1,0 +1,105 @@
+{
+  "summary": {
+    "sourceRows": 1057,
+    "questions": 924,
+    "singleChoice": 922,
+    "multipleChoice": 2,
+    "sourceMismatches": 1,
+    "sections": {
+      "Past Exams": 398,
+      "Lecture Topics": 48,
+      "Pediatrics": 88,
+      "Cardiothoracic Surgery": 131,
+      "Faculty Banks": 50,
+      "Review Collections": 148,
+      "Group Banks": 2,
+      "Other Collections": 59
+    },
+    "topics": {
+      "Acute Coronary Syndrome & IHD": 97,
+      "Arrhythmias & ECG": 87,
+      "Asthma, COPD & Airways": 67,
+      "Cardiac Investigation & Resuscitation": 7,
+      "Congenital & Pediatric Cardiology": 43,
+      "Endocarditis & Rheumatic Disease": 13,
+      "General Surgery": 29,
+      "Heart Failure": 53,
+      "Hypertension & Vascular": 47,
+      "Interstitial & Occupational Lung": 29,
+      "Lung Cancer & Mediastinum": 32,
+      "Mixed Cardiorespiratory": 166,
+      "Pericardial Disease & Cardiac Trauma": 13,
+      "Pleural Disease": 73,
+      "Pneumonia & Respiratory Infection": 31,
+      "Postoperative Respiratory Care": 1,
+      "Pulmonary Embolism & Vascular": 10,
+      "Thoracic Surgery & Chest Wall": 2,
+      "Thoracic Trauma": 17,
+      "Tuberculosis": 13,
+      "Valvular Heart Disease": 94
+    },
+    "tags": 41,
+    "providedModelAnswerItems": 30,
+    "examCollections": 1
+  },
+  "sectionCounts": {
+    "Past Exams": 398,
+    "Lecture Topics": 48,
+    "Pediatrics": 88,
+    "Cardiothoracic Surgery": 131,
+    "Faculty Banks": 50,
+    "Review Collections": 148,
+    "Group Banks": 2,
+    "Other Collections": 59
+  },
+  "topicCounts": {
+    "Acute Coronary Syndrome & IHD": 97,
+    "Arrhythmias & ECG": 87,
+    "Asthma, COPD & Airways": 67,
+    "Cardiac Investigation & Resuscitation": 7,
+    "Congenital & Pediatric Cardiology": 43,
+    "Endocarditis & Rheumatic Disease": 13,
+    "General Surgery": 29,
+    "Heart Failure": 53,
+    "Hypertension & Vascular": 47,
+    "Interstitial & Occupational Lung": 29,
+    "Lung Cancer & Mediastinum": 32,
+    "Mixed Cardiorespiratory": 166,
+    "Pericardial Disease & Cardiac Trauma": 13,
+    "Pleural Disease": 73,
+    "Pneumonia & Respiratory Infection": 31,
+    "Postoperative Respiratory Care": 1,
+    "Pulmonary Embolism & Vascular": 10,
+    "Thoracic Surgery & Chest Wall": 2,
+    "Thoracic Trauma": 17,
+    "Tuberculosis": 13,
+    "Valvular Heart Disease": 94
+  },
+  "exam59GroupB": {
+    "questionsAdded": 30,
+    "answerKey": "1 C, 2 D, 3 D, 4 C, 5 E, 6 C, 7 B, 8 D, 9 C, 10 C, 11 E, 12 A, 13 C, 14 D, 15 A, 16 C, 17 C, 18 B, 19 B, 20 C, 21 D, 22 A, 23 B, 24 B, 25 B, 26 C, 27 D, 28 E, 29 D, 30 E",
+    "overlappingStemsMarkedWithDuplicateOf": 13,
+    "preservationNote": "The exam is retained as a distinct ordered 30-question collection so its exact numbering and model-answer sequence remain available."
+  },
+  "refinedTextAudit": {
+    "ulcerativeColitisSourceQuestions": 2,
+    "affectedQuestionIds": [
+      "CT-2CD48E1DF93C",
+      "CT-95D8D0224316"
+    ],
+    "finding": "Ulcerative colitis exists in two legitimate General Surgery source questions. It was not a global question suffix in the data bank.",
+    "exportFix": "Refined-text export now sanitizes control characters and constructs every question as an isolated block, preventing text-extractor line carry-over or accidental tail attachment."
+  },
+  "anomalies": [
+    {
+      "id": "CT-F735AC7AD7F2",
+      "question": "A 2-day-old infant experiences cyanosis, hypotension, and metabolic acidosis. On examination, the infant is lethargic, tachycardic, and gray blue, with hepatomegaly, a grade 2-3/6 systolic murmur, and poor radial and femoral pulses. A chest radiograph reveals cardiomegaly, and an ECG demonstrates right ventricular dominance with markedly reduced R waves in V5 and V6. The most likely diagnosis:",
+      "sourceLines": [
+        "8th Semester CardioThoracic PRO.txt:561"
+      ],
+      "invalidAnswerPositions": [
+        4
+      ]
+    }
+  ]
+}
